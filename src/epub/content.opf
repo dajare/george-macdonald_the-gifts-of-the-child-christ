@@ -41,12 +41,10 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://gutenberg.org/ebooks/9191</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/9191</dc:source>
 		<dc:source>https://archive.org/details/stephenarcheroth00macd</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/dajare/george-macdonald_the-gifts-of-the-child-christ</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
