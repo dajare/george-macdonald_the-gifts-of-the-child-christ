@@ -3,11 +3,11 @@
 	<title>The cover for The Gifts of the Child Christ, by George MacDonald</title>
 	<style type="text/css">
 		path{
-			fill: #fff;
+			fill: #000;
 		}
 
 		.title-box{
-			fill: #000;
+			fill: #fff;
 			fill-opacity: .75;
 		}
 	</style>
