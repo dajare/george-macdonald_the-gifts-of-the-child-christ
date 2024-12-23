@@ -36,9 +36,11 @@
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Traumas in a young London family bring life changes at Christmas time.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Sophy’s mother died shortly after Sophy was born. Now, as a five year old, she is a neglected and unloved child. Her father has recently remarried, and her young step-mother is expecting a baby. So when Sophy hears in an Advent sermon that “whom the Lord loveth he chasteneth,” she begins to pray that she might also be “chastened,” for in this way she will know she is loved.&lt;/p&gt;
+			&lt;p&gt;During December, the members of Sophy’s household experience traumas of various kinds. When Christmas Day arrives, Sophy’s hope that the arrival of baby Jesus will bring a decisive change is realized in dramatically unexpected ways.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald’s&lt;/a&gt; stories for children explore emotional and spiritual depths in profound ways. &lt;i&gt;The Gifts of the Child Christ&lt;/i&gt; is a moving example of this capacity in MacDonald’s seeminlgy simple tales.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9191</dc:source>
@@ -51,10 +53,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_MacDonald</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096948</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Charles Chaplin</dc:contributor>
+		<meta property="file-as" refines="#artist">Chaplin, Charles</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Charles Joshua Chaplin</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Charles_Joshua_Chaplin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr90019230</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jonathan Ingram</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Ingram, Jonathan</meta>
